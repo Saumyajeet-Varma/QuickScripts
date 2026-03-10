@@ -1,16 +1,17 @@
 # Contributing
 
-Thank you for considering contributing to this repository! 🎉
+Thank you for considering contributing to this repository!
+
 This project aims to provide a collection of useful Python scripts for automating common file and folder management tasks.
 
 ## How to Contribute
 
 There are several ways you can contribute:
 
-* 🐛 Report bugs
-* 💡 Suggest new script ideas
-* ✨ Add new automation scripts
-* 🔧 Improve existing scripts
+* Report bugs
+* Suggest new script ideas
+* Add new automation scripts
+* Improve existing scripts
 
 ---
 

@@ -1,4 +1,4 @@
-# Useful Python Scripts
+# QuickScripts
 
 A collection of useful **Python scripts** to automate common file and folder management tasks.
 These scripts help simplify repetitive operations such as deleting files, moving files, renaming files, and organizing directories.
